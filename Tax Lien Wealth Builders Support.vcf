@@ -4,9 +4,9 @@ N:Support;Tax Lien Wealth Builders;;
 FN:Tax Lien Wealth Builders Support
 ORG:Tax Lien Wealth Builders
 TEL;TYPE=WORK,VOICE:800-366-4079
-TEL;TYPE=CELL,VOICE:760-533-0730
-TEL;TYPE=CELL,VOICE:760-560-6620
-TEL;TYPE=CELL,VOICE:619-630-9123
+TEL;TYPE=WORK2,VOICE:760-533-0730
+TEL;TYPE=HOME,VOICE:760-560-6620
+TEL;TYPE=other,VOICE:619-630-9123
 EMAIL:Support@taxlienwealthbuilders.com
 URL:https://www.taxlienwealthbuilders.com
 PHOTO;TYPE=JPEG;ENCODING=BASE64:
